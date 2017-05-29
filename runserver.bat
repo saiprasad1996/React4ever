@@ -1,0 +1,1 @@
+C:\Android/platform-tools/adb -s FBAZGU0367382F9 reverse tcp:8081 tcp:8081
